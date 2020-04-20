@@ -1,0 +1,7 @@
+{
+    "consumer": {
+        "lambda": {
+            "event": "google"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "producer": {
+        "lambda": {
+            "event": 1
+        }
+    }
+}
